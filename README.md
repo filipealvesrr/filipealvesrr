@@ -7,3 +7,4 @@ Passionate about learning new things and enthusiastic about web technologies ðŸ˜
 <br>- ðŸ“« Contact me via email filipealvesribeirorodrigues@gmail.com
 
 
+[![Gmail Badge](https://img.shields.io/badge/-filipealvesribeirorodrigues@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:filipealvesribeirorodrigues@gmail.com)](mailto:filipealvesribeirorodrigues@gmail.com)
