@@ -4,7 +4,13 @@
 Passionate about learning new things and enthusiastic about web technologies 😄☺️
 
 <br>- 📚  I’m currently learning JavaScript, HTML, CSS, SQL
+
+<br>- 💻 Looking to collaborate on web projects focused on the frontend
+
+<br>- 🧐 Ask me about Python, C, JavaScript, HTML, CSS.
+
 <br>- 📫 Contact me via email filipealvesribeirorodrigues@gmail.com
 
+<br>- 🗒️ My Linkedin: https://www.linkedin.com/in/filipe-alves-a91b961a8/
 
-[![Gmail Badge](https://img.shields.io/badge/-filipealvesribeirorodrigues@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:filipealvesribeirorodrigues@gmail.com)](mailto:filipealvesribeirorodrigues@gmail.com)
+
