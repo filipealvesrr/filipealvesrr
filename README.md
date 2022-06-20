@@ -11,6 +11,6 @@ Passionate about learning new things and enthusiastic about web technologies �
 
 <br>- 📫 Contact me via email filipealvesribeirorodrigues@gmail.com
 
-<br>- 🗒️ My Linkedin: https://www.linkedin.com/in/filipe-alves-a91b961a8/
+<br>- 🗒️ My Linkedin: https://www.linkedin.com/in/filipealvesrr/
 
 
