@@ -1,7 +1,7 @@
 ## Hi there 👋, I'm Filipe Alves
 
-#### A Brazilian student of computer engineering and Web Developer
-Passionate about learning new things and enthusiastic about software development technologies 😄☺️
+#### A Brazilian student of computer engineering
+Passionate about learning new things 😄☺️
 
 
 <div align="center">
